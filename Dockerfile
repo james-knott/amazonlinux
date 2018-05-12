@@ -12,4 +12,4 @@ RUN echo 'export PS1="\[\e[36m\]ghettolabs>\[\e[m\] "' >> /root/.bashrc
 #    yum -y install <stuff>
 
 CMD ["bash"]
-view raw
+
